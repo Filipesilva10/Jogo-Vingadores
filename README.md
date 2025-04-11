@@ -1,4 +1,4 @@
-🎮 Ash vs Pidgeots
+🎮 Vingadores
 
 Bem-vindo ao repositório do **Jogo 2D: Homem de Ferro vs Thanos**!  
 Neste game de ação em 2D, você controla o Homem de Ferro em uma batalha intensa contra Thanos. Use seus ataques e esquivas para derrotar o vilão e salvar o universo!
