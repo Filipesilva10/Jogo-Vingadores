@@ -38,7 +38,7 @@ Pré-requisitos
 
 📄 Licença
 
-Este projeto é um fan game sem fins lucrativos. Todos os direitos dos personagens são da Nintendo / Game Freak.
+Este projeto é um fan game sem fins lucrativos. Todos os direitos dos personagens são da Marvel.
 
 🙌 Agradecimentos
 
