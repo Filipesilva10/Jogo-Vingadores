@@ -10,7 +10,7 @@ Estilo: Jogo de pontuação.
 
 Engines: Construct 3 e Firebase.
 
-Objetivo: Capturar o máximo de Pidgeots e bater recordes de pontuação!
+Objetivo: Matar o Thanos 
 
 🎮 Como Jogar
 
